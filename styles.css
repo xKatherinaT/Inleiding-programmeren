@@ -1,0 +1,23 @@
+main img {
+    max-width: 10%;
+}
+
+#myProgress {
+    width: 20%;
+    background-color: grey;
+  }
+  
+  #myBar {
+    width: 1%;
+    height: 30px;
+    background-color: #93c021;
+  }
+
+main div {
+    display: flex;
+    /* position: ; */
+}
+
+ul {
+  list-style: none;
+}
